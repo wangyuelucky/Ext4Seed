@@ -1,4 +1,4 @@
-## 利用Ext cmd工具生成原始工程
+# 利用Ext cmd工具生成原始工程
 首先，安装cmd环境；然后，切换到工程目录；运行sencha web start启动server；在浏览器中访问1841端口。
 
 
